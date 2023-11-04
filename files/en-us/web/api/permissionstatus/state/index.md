@@ -10,7 +10,7 @@ browser-compat: api.PermissionStatus.state
 
 The **`state`** read-only property of the
 {{domxref("PermissionStatus")}} interface returns the state of a requested permission.
-This property returns one of `'granted'`, `'denied'`, or
+This property returns one of `'granted'`,  or
 `'prompt'`.
 
 ## Value
@@ -18,7 +18,6 @@ This property returns one of `'granted'`, `'denied'`, or
 One of the following:
 
 - `'granted'`
-- `'denied'`
 - `'prompt'`
 
 ## Examples
